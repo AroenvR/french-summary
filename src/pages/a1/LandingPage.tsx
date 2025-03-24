@@ -1,7 +1,7 @@
-// src/pages/A1.tsx
+// src/pages/a1/LandingPage.tsx
 import React from 'react';
 
-const A1: React.FC = () => {
+const LandingPage: React.FC = () => {
     return (
         <div>
             <h2 className="text-xl font-bold mb-2">A1 Content</h2>
@@ -10,4 +10,4 @@ const A1: React.FC = () => {
     );
 };
 
-export default A1;
+export default LandingPage;
